@@ -1,0 +1,42 @@
+- Ответы на вопросы
+
+- Kahoot
+
+- Структура веб-страницы
+  -- html
+  -- head
+  -- body
+
+- Семантическая разметка
+  -- <header>
+  -- <main>
+  -- <footer>
+  -- <article>
+  -- <section>
+  -- <nav>
+  -- <address>
+  -- <div>
+
+- Разметка текстов
+  -- <p>
+  -- <h1> .. <h6>
+  -- <ul> <ol> <li>
+  -- <a>
+     * href
+     * target
+     * rel
+     * ссылочные протоколы
+
+  -- <button>
+     *type
+
+  -- <span>
+
+- Разметка изображений
+  -- img
+  -- figure / figcaption
+
+- Валидация
+- DevTools
+
+- Ответы на вопросы
